@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456657693375",
+    "project_id": "chat-karo-5a12d",
+    "storage_bucket": "chat-karo-5a12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456657693375:android:aa7fad3fc6c325e43e340a",
+        "android_client_info": {
+          "package_name": "com.aditya.chatkaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXK2bx0Xip-PVpfUc0FlPOp-I9izwjYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
